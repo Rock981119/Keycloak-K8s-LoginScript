@@ -1,0 +1,1 @@
+# Keycloak-K8s-LoginScript
