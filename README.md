@@ -9,4 +9,4 @@
 K8s OIDC interactive login script, generated credentials can be directly pasted.
 <br>
 <br>
-![Py Example](./LoginScript.png)
+![Py Example](main/LoginScript.png)
