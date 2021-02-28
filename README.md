@@ -10,4 +10,4 @@ K8s OIDC interactive login script, generated credentials can be directly pasted.
 <br>
 Shell:
 <br>
-![Py Example](/LoginScript.png)
+![Py Example](https://raw.githubusercontent.com/Rock981119/Keycloak-K8s-LoginScript/main/LoginScript.png)
